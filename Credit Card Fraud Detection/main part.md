@@ -1,4 +1,3 @@
----
 
 ### **Step 1: Create the Project Directory Structure**
 
